@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
 @font-face {
     font-family: Sisterhood;
     src: url(Sisterhood.ttf);
@@ -29,7 +30,7 @@ header h1 {font-family: Sisterhood;
     color: #025784;
     margin-top: 40px;    
 }
-header h2 {font-family: 'Dancing Script', cursive;
+header h2 {font-family: "Bodoni Moda", serif;
     padding-bottom: 15px;
     font-size: 220%;
 color: white;}
@@ -107,7 +108,7 @@ height: 50%;}
 
 /* CUANDO Y UBUCACION */
 .cuando--donde {text-align: center;
-    font-family: 'Dancing Script', cursive;
+    font-family: "Bodoni Moda", serif;
     font-size: 3rem;
     color: #ffffff;}
 .reloj img {width: 10%;}
@@ -159,7 +160,7 @@ margin-top: -20px;}
 
 /* INICIO VESTIMENTA */
 .borde1 {border-bottom: 2px solid black;}
-.code {font-family: 'Dancing Script', cursive;
+.code {font-family: "Bodoni Moda", serif;
     color: #ffffff;
     font-size: 5rem;
 }
@@ -176,7 +177,7 @@ margin-top: -20px;}
     .sport {font-size: 2rem;}
     }
 .dress {text-align: center;}
-.sport {font-family: 'Dancing Script', cursive;
+.sport {font-family: "Bodoni Moda", serif;
     font-size: 3rem ;
     padding-top: -25px;
     color: rgb(255, 255, 255);
@@ -244,7 +245,7 @@ margin-top: -20px;}
 .imgdonaubi {text-align: center;
     padding-bottom: 15px;}
 .asistencia {text-align: center;
-    font-family: 'Dancing Script', cursive;
+    font-family: "Bodoni Moda", serif;
     font-size: 220%;
     color: rgb(255, 255, 255);}
 /* INICIO FORMULARIO */
@@ -312,7 +313,7 @@ margin-top: -20px;}
 /* FIN FORMULARIO */
 /* INICIO FOOTER */
 footer h1 {text-align: center;
-    font-family: 'Dancing Script', cursive;
+    font-family: "Bodoni Moda", serif;
     font-size: 4rem;
     color:white;
 }
