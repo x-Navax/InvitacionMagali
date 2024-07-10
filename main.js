@@ -50,16 +50,3 @@ function validarFormulario() {
 
     return true;
   }
-
-  //
-  document.addEventListener("DOMContentLoaded", function() {
-    const background = document.querySelector('.background');
-    
-    for (let i = 0; i < 100; i++) { // Puedes cambiar el número para más o menos brillitos
-        const sparkle = document.createElement('div');
-        sparkle.classList.add('sparkle');
-        sparkle.style.left = `${Math.random() * 100}vw`;
-        sparkle.style.top = `${Math.random() * 100}vh`;
-        background.appendChild(sparkle);
-    }
-});

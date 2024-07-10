@@ -10,7 +10,12 @@
 }
 *{margin: 0;
     padding: 0;
-background-color: #000000;}
+}
+#bg{
+    background-image: url("./imagenes/fondo3.png");
+    background-size: cover;
+    background-position:center;
+}
 
 /* MODIFICACION DE ADAPTACION */
 .portada {width: 60%;
@@ -26,8 +31,8 @@ background-color: #000000;}
 header {
     text-align: center;}
 header h1 {font-family: Sisterhood;
-    font-size: 6rem;
-    color: #025784;
+    font-size: 6.8rem;
+    color: #16bcef;
     margin-top: 40px;    
 }
 header h2 {font-family: "Bodoni Moda", serif;
