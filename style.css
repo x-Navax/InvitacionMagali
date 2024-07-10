@@ -15,6 +15,7 @@
     background-image: url("./imagenes/fondo3.png");
     background-size: cover;
     background-position:center;
+    background-repeat: no-repeat;
 }
 
 /* MODIFICACION DE ADAPTACION */
